@@ -1,4 +1,7 @@
 # Todo App
+## Concepts used : 
+  - state management -Ephemeral(local) state like setState
+  - UI design 
 
 ## Overview
 This is a simple Todo App built using Flutter. It features a basic UI with an AppBar, a Drawer, and a floating button that opens a modal bottom sheet for adding new tasks.
